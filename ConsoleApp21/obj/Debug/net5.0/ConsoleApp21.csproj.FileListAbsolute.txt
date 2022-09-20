@@ -1,0 +1,16 @@
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.exe
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.deps.json
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.runtimeconfig.json
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.runtimeconfig.dev.json
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.dll
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ref\ConsoleApp21.dll
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\bin\Debug\net5.0\ConsoleApp21.pdb
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.AssemblyInfoInputs.cache
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.AssemblyInfo.cs
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.dll
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ref\ConsoleApp21.dll
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.pdb
+C:\Users\Дарья\Desktop\Проектная деятельность\ConsoleApp21\ConsoleApp21\obj\Debug\net5.0\ConsoleApp21.genruntimeconfig.cache
